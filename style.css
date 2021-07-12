@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+}
+
+.container{
+    margin: 30vh 40vw;
+}
+
+#txt-in{
+    text-align: center;
+    margin: 2px;
+    padding: 1.5px;
+}
+ button {
+            width: 100px;
+            height: 30px;
+        }
+        
+        .butt {
+            width: 200px;
+            height: 50px;
+            justify-items: center;
+        }
+
+#head{
+    text-align: center;
+}
